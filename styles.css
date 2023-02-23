@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
-#container{
+#yellow{
     background-color: yellow;
    border: 1px solid green; 
 }
-#form{
+#red{
     background-color: red;
     border: 1px solid black;
 }
-#box{
+#green{
     background-color: green;
     border: 1px solid yellow;
 }
